@@ -41,6 +41,13 @@ Today, I’m looking for my next challenge: somewhere I can **build great produc
 - Jest · React Testing Library · Playwright  
 - TDD for complex features or critical paths
 
+### ⚙️ DevOps & Deployment  
+- **Git** (feature-branch workflows, commit conventions)  
+- **CI/CD Pipelines** (GitHub Actions, GitLab CI)  
+- **Docker** (multi-service apps, Docker Compose)  
+- **Nginx** (reverse proxy, static file hosting)  
+- Familiar with deploying full-stack apps on **VPS & cloud platforms**
+
 ---
 
 ## 📫 Get in Touch
